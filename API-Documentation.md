@@ -79,7 +79,7 @@ Permet de mettre à jour une sauce que vous avez créée.
 
     DELETE http://NomDuSite.com/5fc0cce5c1fe9a168ce9c564/
 
-Vous permet de supprimer une sauce que vous avez créée.
+Permet de supprimer une sauce que vous avez créée.
 
     Attendu : /ID
 
